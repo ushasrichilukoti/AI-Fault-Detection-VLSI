@@ -1,0 +1,6 @@
+VCD info: dumpfile wave.vcd opened for output.
+Time=0 a= 0 b= 0 sum= 0
+Time=10000 a= 3 b= 2 sum= 5
+Time=20000 a= 7 b= 5 sum=12
+Time=30000 a=15 b= 1 sum=16
+tb.v:43: $finish called at 40000 (1ps)
